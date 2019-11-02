@@ -1,11 +1,34 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "suresh",
+      "suresh": "suresh37@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "sureysh",
+      "suresh": "telltosureysh@gmail.com"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "productId": 1,
+      "name": "Iphone 11",
+      "desc": "brand new iphone with better cam",
+      "image": "",
+      "url": "https://www.apple.com/in/iphone-11/",
+      "price": "64999",
+      "category": "mobile"
+    },
+    {
+      "productId": 2,
+      "name": "OP 7t 11",
+      "desc": "One Plus 7t",
+      "image": "",
+      "url": "https://www.oneplus.in/7t",
+      "price": "37999",
+      "category": "mobile"
+    }
+  ]
 }
